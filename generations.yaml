@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/BMW_X4"
+
 generations:
   - name: "First Generation (F26)"
     start_year: 2014
@@ -6,5 +9,5 @@ generations:
 
   - name: "Second Generation (G02)"
     start_year: 2018
-    end_year: null
-    description: "The current X4 is based on the G01 X3 platform but features more differentiated styling than its predecessor, with a longer wheelbase, wider track, and lower height creating a more athletic profile. The interior offers similar technology and features to the X3 but with a more driver-focused layout. Engine options range from efficient four-cylinders to the high-performance X4 M with up to 503 HP from its twin-turbocharged six-cylinder engine. All models feature xDrive all-wheel drive and an automatic transmission as standard. A facelift in 2021 updated the exterior styling and interior technology, including a larger infotainment display and enhanced digital features. The second-generation X4 continues to cater to buyers seeking a more emotionally styled alternative to traditional SUVs, offering a compromise between utility and sporty design."
+    end_year: 2025
+    description: "The current X4 is based on the G01 X3 platform but features more differentiated styling than its predecessor, with a longer wheelbase, wider track, and lower height creating a more athletic profile. The interior offers similar technology and features to the X3 but with a more driver-focused layout. Engine options range from efficient four-cylinders to the high-performance X4 M with up to 503 HP from its twin-turbocharged six-cylinder engine. All models feature xDrive all-wheel drive and an automatic transmission as standard. A facelift in 2021 updated the exterior styling and interior technology, including a larger infotainment display and enhanced digital features. The second-generation X4 continues to cater to buyers seeking a more emotionally styled alternative to traditional SUVs, offering a compromise between utility and sporty design. BMW has indicated 2025 will be the X4's final model year."
