@@ -4,26 +4,8 @@ test_cases:
     BMW_VSS2: 0
   response: 612F105624AB10000
 - expected_values:
-    BMW_VSS2: 4.5
-  response: 612F105624AB101C2
+    BMW_VSS2: 48.61
+  response: 612F105624AB112FD
 - expected_values:
-    BMW_VSS2: 10.63
-  response: 612F105624AB10427
-- expected_values:
-    BMW_VSS2: 13.63
-  response: 612F105624AB10553
-- expected_values:
-    BMW_VSS2: 28.34
-  response: 612F105624AB10B12
-- expected_values:
-    BMW_VSS2: 29.33
-  response: 612F105624AB10B75
-- expected_values:
-    BMW_VSS2: 43.23
-  response: 612F105624AB110E3
-- expected_values:
-    BMW_VSS2: 52.09
-  response: 612F105624AB11459
-- expected_values:
-    BMW_VSS2: 53.26
-  response: 612F105624AB114CE
+    BMW_VSS2: 100.08
+  response: 612F105624AB12718
