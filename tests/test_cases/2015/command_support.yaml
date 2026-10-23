@@ -74,6 +74,8 @@ unsupported_commands_by_ecu:
   - 6F1.607.22DDC0
   - 6F1.607.22DF71
   - 6F1.607.22DFA0
+  - 6F1.607.22E54D|e=07,fc=1:X4_BAT_V
+  - 6F1.607.22E561
   - 6F1.607.22E5C7
   - 6F1.607.22E5CE
   - 6F1.60D.22D240|e=0D,fc=1:X4_VSS_INSTR
