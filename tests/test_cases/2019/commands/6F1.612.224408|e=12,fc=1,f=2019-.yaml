@@ -1,0 +1,5 @@
+command_id: 6F1.612.224408|e=12,fc=1,f=2019-
+test_cases:
+- expected_values:
+    X4_EOT_DME_K: 22.95
+  response: 612F1056244080B91
