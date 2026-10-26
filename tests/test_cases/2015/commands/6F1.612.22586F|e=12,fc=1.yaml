@@ -1,8 +1,8 @@
 command_id: 6F1.612.22586F|e=12,fc=1
 test_cases:
 - expected_values:
-    X4_EOP: 1.011
-  response: 612F10562586F03F3
+    X4_EOP: 0.985
+  response: 612F10562586F03D9
 - expected_values:
     X4_EOP: 2.556
   response: 612F10562586F09FC

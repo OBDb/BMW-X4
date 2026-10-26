@@ -34,14 +34,6 @@ test_cases:
     618F12200000DDFFFFF
 - expected_values:
     X4_TIME_D: 0
-    X4_TIME_M: 175
-    X4_TIME_S: 68
-  response: |-
-    618F1100F62DA370044
-    618F121AF790000A99A
-    618F12200000DDFFFFF
-- expected_values:
-    X4_TIME_D: 0
     X4_TIME_M: 167
     X4_TIME_S: 69
   response: |-
@@ -63,4 +55,20 @@ test_cases:
   response: |-
     618F1100F62DA370045
     618F121ED590000AAAF
+    618F12200001063FFFF
+- expected_values:
+    X4_TIME_D: 0
+    X4_TIME_M: 239
+    X4_TIME_S: 69
+  response: |-
+    618F1100F62DA370045
+    618F121EF360000AC45
+    618F12200001063FFFF
+- expected_values:
+    X4_TIME_D: 0
+    X4_TIME_M: 239
+    X4_TIME_S: 69
+  response: |-
+    618F1100F62DA370045
+    618F121EF910000AC45
     618F12200001063FFFF

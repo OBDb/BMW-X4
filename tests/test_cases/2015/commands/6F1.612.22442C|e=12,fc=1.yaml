@@ -1,0 +1,11 @@
+command_id: 6F1.612.22442C|e=12,fc=1
+test_cases:
+- expected_values:
+    X4_OIL_LEVEL: 0
+  response: 612F10462442C00
+- expected_values:
+    X4_OIL_LEVEL: 83
+  response: 612F10462442C53
+- expected_values:
+    X4_OIL_LEVEL: 91
+  response: 612F10462442C5B

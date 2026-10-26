@@ -6,3 +6,12 @@ test_cases:
 - expected_values:
     X4_ET_8: 51.75
   response: 612F10462430085
+- expected_values:
+    X4_ET_8: 96
+  response: 612F104624300C0
+- expected_values:
+    X4_ET_8: 97.5
+  response: 612F104624300C2
+- expected_values:
+    X4_ET_8: 99
+  response: 612F104624300C4

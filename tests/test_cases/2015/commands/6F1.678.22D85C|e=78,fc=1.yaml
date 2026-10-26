@@ -15,3 +15,28 @@ test_cases:
   response: |-
     678F1100862D85C1215
     678F12115000BFFFFFF
+- expected_values:
+    X4_CABIN_T: 20
+  response: |-
+    678F1100862D85C1416
+    678F121150000FFFFFF
+- expected_values:
+    X4_CABIN_T: 23
+  response: |-
+    678F1100862D85C1718
+    678F1211A0002FFFFFF
+- expected_values:
+    X4_CABIN_T: 23
+  response: |-
+    678F1100862D85C1718
+    678F1211A0017FFFFFF
+- expected_values:
+    X4_CABIN_T: 23
+  response: |-
+    678F1100862D85C1718
+    678F1211B0002FFFFFF
+- expected_values:
+    X4_CABIN_T: 23
+  response: |-
+    678F1100862D85C1719
+    678F1211B0004FFFFFF
