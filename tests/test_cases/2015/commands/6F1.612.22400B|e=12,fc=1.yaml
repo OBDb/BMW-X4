@@ -1,6 +1,30 @@
 command_id: 6F1.612.22400B|e=12,fc=1
 test_cases:
 - expected_values:
+    X4_LAMBDA: 0.16
+  response: |-
+    612F1101162400B012F
+    612F121013400100094
+    612F12200000008FFFF
+- expected_values:
+    X4_LAMBDA: 0.32
+  response: |-
+    612F1101162400B0166
+    612F121016500200095
+    612F12200000008FFFF
+- expected_values:
+    X4_LAMBDA: 0.48
+  response: |-
+    612F1101162400B01C0
+    612F12101C10030006F
+    612F12200000008FFFF
+- expected_values:
+    X4_LAMBDA: 0
+  response: |-
+    612F1101162400B076B
+    612F121076E0000007D
+    612F12200000008FFFF
+- expected_values:
     X4_LAMBDA: 0
   response: |-
     612F1101162400B076B
@@ -11,6 +35,18 @@ test_cases:
   response: |-
     612F1101162400B076B
     612F12107720000007C
+    612F12200000008FFFF
+- expected_values:
+    X4_LAMBDA: 0
+  response: |-
+    612F1101162400B0776
+    612F12107720000007E
+    612F12200000008FFFF
+- expected_values:
+    X4_LAMBDA: 0
+  response: |-
+    612F1101162400B0776
+    612F12107720000007F
     612F12200000008FFFF
 - expected_values:
     X4_LAMBDA: 0

@@ -1,0 +1,17 @@
+command_id: 6F1.612.224A2D|e=12,fc=1
+test_cases:
+- expected_values:
+    X4_MAP: 96.42969
+  response: 612F105624A2D3037
+- expected_values:
+    X4_MAP: 97.64844
+  response: 612F105624A2D30D3
+- expected_values:
+    X4_MAP: 101.29688
+  response: 612F105624A2D32A6
+- expected_values:
+    X4_MAP: 102.25781
+  response: 612F105624A2D3321
+- expected_values:
+    X4_MAP: 102.53125
+  response: 612F105624A2D3344

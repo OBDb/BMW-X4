@@ -4,5 +4,14 @@ test_cases:
     X4_OIL_TEMP: 0
   response: 612F1056245060000
 - expected_values:
+    X4_OIL_TEMP: 9
+  response: 612F10562450609E6
+- expected_values:
+    X4_OIL_TEMP: 10
+  response: 612F1056245060A6D
+- expected_values:
+    X4_OIL_TEMP: 15
+  response: 612F1056245060FB3
+- expected_values:
     X4_OIL_TEMP: 17
   response: 612F1056245061163
