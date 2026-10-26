@@ -1,6 +1,12 @@
 command_id: 6F1.612.22580F|e=12,fc=1
 test_cases:
 - expected_values:
+    X4_IAT_DME: 30.75
+  response: 612F10462580F69
+- expected_values:
+    X4_IAT_DME: 31.5
+  response: 612F10462580F6A
+- expected_values:
     X4_IAT_DME: 36
   response: 612F10462580F70
 - expected_values:

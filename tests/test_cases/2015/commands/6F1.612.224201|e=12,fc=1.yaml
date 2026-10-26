@@ -4,8 +4,17 @@ test_cases:
     X4_BARO: 101.79297
   response: 612F10562420165CB
 - expected_values:
+    X4_BARO: 102.16406
+  response: 612F105624201662A
+- expected_values:
     X4_BARO: 102.25781
   response: 612F1056242016642
 - expected_values:
     X4_BARO: 102.26562
   response: 612F1056242016644
+- expected_values:
+    X4_BARO: 103.08984
+  response: 612F1056242016717
+- expected_values:
+    X4_BARO: 103.16016
+  response: 612F1056242016729

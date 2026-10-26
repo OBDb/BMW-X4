@@ -4,8 +4,14 @@ test_cases:
     X4_IGN_TIMING_2: 0
   response: 612F105624A4A0000
 - expected_values:
+    X4_IGN_TIMING_2: 1.7
+  response: 612F105624A4A0011
+- expected_values:
     X4_IGN_TIMING_2: 6.7
   response: 612F105624A4A0043
 - expected_values:
     X4_IGN_TIMING_2: 25.9
   response: 612F105624A4A0103
+- expected_values:
+    X4_IGN_TIMING_2: -8.7
+  response: 612F105624A4AFFA9

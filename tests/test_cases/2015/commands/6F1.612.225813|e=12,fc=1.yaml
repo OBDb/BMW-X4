@@ -7,6 +7,12 @@ test_cases:
     X4_LOAD: 19.5
   response: 612F1046258131A
 - expected_values:
+    X4_LOAD: 28.5
+  response: 612F10462581326
+- expected_values:
+    X4_LOAD: 33.75
+  response: 612F1046258132D
+- expected_values:
     X4_LOAD: 39
   response: 612F10462581334
 - expected_values:
