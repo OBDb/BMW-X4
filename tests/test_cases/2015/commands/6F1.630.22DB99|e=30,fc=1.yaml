@@ -10,5 +10,5 @@ test_cases:
     X4_STEER_TQ: -1.14844
   response: 630F10662DB99FF6D00
 - expected_values:
-    X4_STEER_TQ: -0.29688
-  response: 630F10662DB99FFDA00
+    X4_STEER_TQ: -0.08594
+  response: 630F10662DB99FFF500

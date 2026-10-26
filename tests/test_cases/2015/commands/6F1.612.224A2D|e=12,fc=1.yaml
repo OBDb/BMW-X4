@@ -7,6 +7,12 @@ test_cases:
     X4_MAP: 97.64844
   response: 612F105624A2D30D3
 - expected_values:
+    X4_MAP: 97.94531
+  response: 612F105624A2D30F9
+- expected_values:
+    X4_MAP: 98.3125
+  response: 612F105624A2D3128
+- expected_values:
     X4_MAP: 101.29688
   response: 612F105624A2D32A6
 - expected_values:

@@ -13,6 +13,12 @@ test_cases:
     629F121000000000000
     629F12200000000FFFF
 - expected_values:
+    X4_BRAKE_P: 8.1
+  response: |-
+    629F1100F62DBE50051
+    629F121000000000000
+    629F12200000000FFFF
+- expected_values:
     X4_BRAKE_P: 16.4
   response: |-
     629F1100F62DBE500A4
@@ -28,6 +34,12 @@ test_cases:
     X4_BRAKE_P: 19.3
   response: |-
     629F1100F62DBE500C1
+    629F121000000000000
+    629F12200000000FFFF
+- expected_values:
+    X4_BRAKE_P: 24.5
+  response: |-
+    629F1100F62DBE500F5
     629F121000000000000
     629F12200000000FFFF
 - expected_values:

@@ -9,3 +9,9 @@ test_cases:
 - expected_values:
     X4_CRANK_TQ: 54
   response: 612F1056258BA021C
+- expected_values:
+    X4_CRANK_TQ: 79.5
+  response: 612F1056258BA031B
+- expected_values:
+    X4_CRANK_TQ: 83.6
+  response: 612F1056258BA0344

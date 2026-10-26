@@ -7,8 +7,14 @@ test_cases:
     X4_LAMBDA_6F1: 0.83351
   response: 612F1056258890D56
 - expected_values:
+    X4_LAMBDA_6F1: 0.92238
+  response: 612F1056258890EC2
+- expected_values:
     X4_LAMBDA_6F1: 0.9966
   response: 612F1056258890FF2
 - expected_values:
     X4_LAMBDA_6F1: 1.01564
   response: 612F1056258891040
+- expected_values:
+    X4_LAMBDA_6F1: 1.03883
+  response: 612F105625889109F

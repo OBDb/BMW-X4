@@ -4,8 +4,14 @@ test_cases:
     X4_OIL_LEVEL: 0
   response: 612F10462442C00
 - expected_values:
+    X4_OIL_LEVEL: 75
+  response: 612F10462442C4B
+- expected_values:
     X4_OIL_LEVEL: 83
   response: 612F10462442C53
+- expected_values:
+    X4_OIL_LEVEL: 89
+  response: 612F10462442C59
 - expected_values:
     X4_OIL_LEVEL: 91
   response: 612F10462442C5B

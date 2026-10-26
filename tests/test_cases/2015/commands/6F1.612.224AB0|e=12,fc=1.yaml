@@ -10,5 +10,11 @@ test_cases:
     X4_BOOST_P_SET: 102.26172
   response: 612F105624AB06643
 - expected_values:
+    X4_BOOST_P_SET: 103.10938
+  response: 612F105624AB0671C
+- expected_values:
+    X4_BOOST_P_SET: 103.16016
+  response: 612F105624AB06729
+- expected_values:
     X4_BOOST_P_SET: 104.33594
   response: 612F105624AB06856
