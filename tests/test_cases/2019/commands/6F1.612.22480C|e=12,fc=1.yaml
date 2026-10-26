@@ -1,0 +1,5 @@
+command_id: 6F1.612.22480C|e=12,fc=1
+test_cases:
+- expected_values:
+    X4_LOAD_TGT: 56.32031
+  response: 612F10562480C0963
