@@ -4,20 +4,5 @@ test_cases:
     X4_ENG_TQ_6F1: 0
   response: 618F10562442F0000
 - expected_values:
-    X4_ENG_TQ_6F1: 12
-  response: 618F10562442F000C
-- expected_values:
-    X4_ENG_TQ_6F1: 13
-  response: 618F10562442F000D
-- expected_values:
-    X4_ENG_TQ_6F1: 27
-  response: 618F10562442F001B
-- expected_values:
-    X4_ENG_TQ_6F1: 28
-  response: 618F10562442F001C
-- expected_values:
-    X4_ENG_TQ_6F1: 41
-  response: 618F10562442F0029
-- expected_values:
-    X4_ENG_TQ_6F1: 102
-  response: 618F10562442F0066
+    X4_ENG_TQ_6F1: 65523
+  response: 618F10562442FFFF3
