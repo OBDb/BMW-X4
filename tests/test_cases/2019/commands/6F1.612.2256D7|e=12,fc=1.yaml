@@ -1,5 +1,14 @@
 command_id: 6F1.612.2256D7|e=12,fc=1
 test_cases:
 - expected_values:
+    X4_FRP: 99.64
+  response: 612F1056256D71376
+- expected_values:
+    X4_FRP: 103.04
+  response: 612F1056256D71420
+- expected_values:
+    X4_FRP: 158.6
+  response: 612F1056256D71EFA
+- expected_values:
     X4_FRP: 200.68
   response: 612F1056256D72732

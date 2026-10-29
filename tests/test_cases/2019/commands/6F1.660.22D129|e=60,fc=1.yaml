@@ -1,0 +1,23 @@
+command_id: 6F1.660.22D129|e=60,fc=1
+test_cases:
+- expected_values:
+    X4_BC_AVG_CONS: 0
+    X4_BC_AVG_SPD: 23.9
+    X4_BC_RANGE: 0
+  response: |-
+    660F1100B62D1290000
+    660F1210956FFFD0000
+- expected_values:
+    X4_BC_AVG_CONS: 0
+    X4_BC_AVG_SPD: 24.1
+    X4_BC_RANGE: 0
+  response: |-
+    660F1100B62D1290000
+    660F121096AFFFD0000
+- expected_values:
+    X4_BC_AVG_CONS: 0
+    X4_BC_AVG_SPD: 24.2
+    X4_BC_RANGE: 0
+  response: |-
+    660F1100B62D1290000
+    660F1210974FFFD0000

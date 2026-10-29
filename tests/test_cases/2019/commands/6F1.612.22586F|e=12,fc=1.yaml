@@ -1,5 +1,32 @@
 command_id: 6F1.612.22586F|e=12,fc=1
 test_cases:
 - expected_values:
+    X4_EOP: 1.044
+  response: 612F10562586F0414
+- expected_values:
+    X4_EOP: 1.081
+  response: 612F10562586F0439
+- expected_values:
+    X4_EOP: 2.375
+  response: 612F10562586F0947
+- expected_values:
+    X4_EOP: 2.424
+  response: 612F10562586F0978
+- expected_values:
+    X4_EOP: 2.46
+  response: 612F10562586F099C
+- expected_values:
+    X4_EOP: 2.509
+  response: 612F10562586F09CD
+- expected_values:
+    X4_EOP: 2.546
+  response: 612F10562586F09F2
+- expected_values:
+    X4_EOP: 2.619
+  response: 612F10562586F0A3B
+- expected_values:
     X4_EOP: 2.643
   response: 612F10562586F0A53
+- expected_values:
+    X4_EOP: 2.704
+  response: 612F10562586F0A90

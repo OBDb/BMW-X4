@@ -1,5 +1,29 @@
 command_id: 6F1.612.224201|e=12,fc=1
 test_cases:
 - expected_values:
+    X4_BARO: 102.14453
+  response: 612F1056242016625
+- expected_values:
+    X4_BARO: 102.15234
+  response: 612F1056242016627
+- expected_values:
+    X4_BARO: 102.15625
+  response: 612F1056242016628
+- expected_values:
+    X4_BARO: 102.17188
+  response: 612F105624201662C
+- expected_values:
+    X4_BARO: 102.17578
+  response: 612F105624201662D
+- expected_values:
+    X4_BARO: 102.33203
+  response: 612F1056242016655
+- expected_values:
+    X4_BARO: 102.37109
+  response: 612F105624201665F
+- expected_values:
+    X4_BARO: 102.38281
+  response: 612F1056242016662
+- expected_values:
     X4_BARO: 102.49219
   response: 612F105624201667E

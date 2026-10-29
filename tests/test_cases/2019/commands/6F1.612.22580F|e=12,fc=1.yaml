@@ -3,3 +3,24 @@ test_cases:
 - expected_values:
     X4_IAT_DME: 17.25
   response: 612F10462580F57
+- expected_values:
+    X4_IAT_DME: 29.25
+  response: 612F10462580F67
+- expected_values:
+    X4_IAT_DME: 30
+  response: 612F10462580F68
+- expected_values:
+    X4_IAT_DME: 30.75
+  response: 612F10462580F69
+- expected_values:
+    X4_IAT_DME: 39
+  response: 612F10462580F74
+- expected_values:
+    X4_IAT_DME: 40.5
+  response: 612F10462580F76
+- expected_values:
+    X4_IAT_DME: 47.25
+  response: 612F10462580F7F
+- expected_values:
+    X4_IAT_DME: 48.75
+  response: 612F10462580F81

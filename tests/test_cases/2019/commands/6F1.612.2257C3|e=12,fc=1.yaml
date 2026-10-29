@@ -1,5 +1,11 @@
 command_id: 6F1.612.2257C3|e=12,fc=1
 test_cases:
 - expected_values:
-    X4_OIL_TEMP_ALT: 119.1
-  response: 612F1056257C304A7
+    X4_OIL_TEMP_ALT: 88.4
+  response: 612F1056257C30374
+- expected_values:
+    X4_OIL_TEMP_ALT: 111.5
+  response: 612F1056257C3045B
+- expected_values:
+    X4_OIL_TEMP_ALT: 122.5
+  response: 612F1056257C304C9

@@ -1,5 +1,32 @@
 command_id: 6F1.612.224A49|e=12,fc=1
 test_cases:
 - expected_values:
+    X4_IGN_TIMING_1: 0.5
+  response: 612F105624A490005
+- expected_values:
+    X4_IGN_TIMING_1: 6
+  response: 612F105624A49003C
+- expected_values:
+    X4_IGN_TIMING_1: 24
+  response: 612F105624A4900F0
+- expected_values:
+    X4_IGN_TIMING_1: -30.9
+  response: 612F105624A49FECB
+- expected_values:
     X4_IGN_TIMING_1: -22.2
   response: 612F105624A49FF22
+- expected_values:
+    X4_IGN_TIMING_1: -17.4
+  response: 612F105624A49FF52
+- expected_values:
+    X4_IGN_TIMING_1: -8.5
+  response: 612F105624A49FFAB
+- expected_values:
+    X4_IGN_TIMING_1: -7.5
+  response: 612F105624A49FFB5
+- expected_values:
+    X4_IGN_TIMING_1: -6.5
+  response: 612F105624A49FFBF
+- expected_values:
+    X4_IGN_TIMING_1: -1.6
+  response: 612F105624A49FFF0

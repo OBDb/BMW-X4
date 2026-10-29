@@ -1,5 +1,14 @@
 command_id: 6F1.612.225889|e=12,fc=1
 test_cases:
 - expected_values:
-    X4_LAMBDA_6F1: 0.96413
-  response: 612F1056258890F6D
+    X4_LAMBDA_6F1: 0.91041
+  response: 612F1056258890E91
+- expected_values:
+    X4_LAMBDA_6F1: 0.99367
+  response: 612F1056258890FE6
+- expected_values:
+    X4_LAMBDA_6F1: 1.00905
+  response: 612F1056258891025
+- expected_values:
+    X4_LAMBDA_6F1: 3.09136
+  response: 612F1056258893176

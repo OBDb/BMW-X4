@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     X4_CAT_T: 95.65
   response: 612F10562582F0E68
+- expected_values:
+    X4_CAT_T: 674.65
+  response: 612F10562582F2506
+- expected_values:
+    X4_CAT_T: 714.95
+  response: 612F10562582F2699
+- expected_values:
+    X4_CAT_T: 723.65
+  response: 612F10562582F26F0
