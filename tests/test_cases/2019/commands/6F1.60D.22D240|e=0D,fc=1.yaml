@@ -3,3 +3,18 @@ test_cases:
 - expected_values:
     X4_VSS_INSTR: 0
   response: 60DF10562D2400000
+- expected_values:
+    X4_VSS_INSTR: 2
+  response: 60DF10562D2400002
+- expected_values:
+    X4_VSS_INSTR: 18
+  response: 60DF10562D2400012
+- expected_values:
+    X4_VSS_INSTR: 40
+  response: 60DF10562D2400028
+- expected_values:
+    X4_VSS_INSTR: 59
+  response: 60DF10562D240003B
+- expected_values:
+    X4_VSS_INSTR: 64
+  response: 60DF10562D2400040

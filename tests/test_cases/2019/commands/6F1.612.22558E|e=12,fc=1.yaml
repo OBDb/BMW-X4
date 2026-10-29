@@ -5,3 +5,28 @@ test_cases:
   response: |-
     612F1100762558E0001
     612F121FF79FFFFFFFF
+- expected_values:
+    X4_ODO_DME: 131079
+  response: |-
+    612F1100762558E0002
+    612F1210007FFFFFFFF
+- expected_values:
+    X4_ODO_DME: 131080
+  response: |-
+    612F1100762558E0002
+    612F1210008FFFFFFFF
+- expected_values:
+    X4_ODO_DME: 131085
+  response: |-
+    612F1100762558E0002
+    612F121000DFFFFFFFF
+- expected_values:
+    X4_ODO_DME: 131086
+  response: |-
+    612F1100762558E0002
+    612F121000EFFFFFFFF
+- expected_values:
+    X4_ODO_DME: 131088
+  response: |-
+    612F1100762558E0002
+    612F1210010FFFFFFFF

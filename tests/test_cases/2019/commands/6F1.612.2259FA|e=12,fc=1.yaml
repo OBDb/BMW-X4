@@ -1,5 +1,8 @@
 command_id: 6F1.612.2259FA|e=12,fc=1
 test_cases:
 - expected_values:
-    X4_IGN_ANGLE: -16.5
-  response: 612F1046259FAEA
+    X4_IGN_ANGLE: 0
+  response: 612F1046259FA00
+- expected_values:
+    X4_IGN_ANGLE: -1.5
+  response: 612F1046259FAFE

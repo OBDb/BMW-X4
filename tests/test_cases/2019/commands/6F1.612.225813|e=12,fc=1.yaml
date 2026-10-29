@@ -1,5 +1,29 @@
 command_id: 6F1.612.225813|e=12,fc=1
 test_cases:
 - expected_values:
+    X4_LOAD: 11.25
+  response: 612F1046258130F
+- expected_values:
+    X4_LOAD: 12
+  response: 612F10462581310
+- expected_values:
+    X4_LOAD: 16.5
+  response: 612F10462581316
+- expected_values:
+    X4_LOAD: 24
+  response: 612F10462581320
+- expected_values:
+    X4_LOAD: 27.75
+  response: 612F10462581325
+- expected_values:
+    X4_LOAD: 30
+  response: 612F10462581328
+- expected_values:
+    X4_LOAD: 43.5
+  response: 612F1046258133A
+- expected_values:
     X4_LOAD: 53.25
   response: 612F10462581347
+- expected_values:
+    X4_LOAD: 54
+  response: 612F10462581348

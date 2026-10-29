@@ -1,5 +1,11 @@
 command_id: 6F1.612.224205|e=12,fc=1
 test_cases:
 - expected_values:
-    X4_BOOST_P: 102.60938
-  response: 612F105624205334E
+    X4_BOOST_P: 102.21875
+  response: 612F105624205331C
+- expected_values:
+    X4_BOOST_P: 103.63281
+  response: 612F10562420533D1
+- expected_values:
+    X4_BOOST_P: 104.20312
+  response: 612F105624205341A

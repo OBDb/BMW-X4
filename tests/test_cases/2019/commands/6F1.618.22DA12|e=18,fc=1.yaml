@@ -3,3 +3,24 @@ test_cases:
 - expected_values:
     X4_ATF_TEMP: 21
   response: 618F10562DA120045
+- expected_values:
+    X4_ATF_TEMP: 49
+  response: 618F10562DA120061
+- expected_values:
+    X4_ATF_TEMP: 50
+  response: 618F10562DA120062
+- expected_values:
+    X4_ATF_TEMP: 68
+  response: 618F10562DA120074
+- expected_values:
+    X4_ATF_TEMP: 69
+  response: 618F10562DA120075
+- expected_values:
+    X4_ATF_TEMP: 70
+  response: 618F10562DA120076
+- expected_values:
+    X4_ATF_TEMP: 75
+  response: 618F10562DA12007B
+- expected_values:
+    X4_ATF_TEMP: 76
+  response: 618F10562DA12007C
