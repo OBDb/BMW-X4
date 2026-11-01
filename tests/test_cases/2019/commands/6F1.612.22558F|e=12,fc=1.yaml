@@ -15,3 +15,8 @@ test_cases:
   response: |-
     612F1100762558F0000
     612F1211AA7FFFFFFFF
+- expected_values:
+    X4_ENG_HOURS: 3416
+  response: |-
+    612F1100762558F0000
+    612F1211AB0FFFFFFFF
