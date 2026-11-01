@@ -19,6 +19,9 @@ test_cases:
     X4_VSS: 22.1
   response: 660F10562D10700DD
 - expected_values:
+    X4_VSS: 31
+  response: 660F10562D1070136
+- expected_values:
     X4_VSS: 48.7
   response: 660F10562D10701E7
 - expected_values:
