@@ -41,6 +41,16 @@ test_cases:
     629F122005501010101
     629F1230150505050FF
 - expected_values:
+    X4_FL_SPD: 9.19
+    X4_FR_SPD: 9.16
+    X4_RL_SPD: 9.19
+    X4_RR_SPD: 9.12
+  response: |-
+    629F1101662DBE40397
+    629F121039403970390
+    629F122038401010101
+    629F1230150505050FF
+- expected_values:
     X4_FL_SPD: 17.3
     X4_FR_SPD: 17.33
     X4_RL_SPD: 17.43

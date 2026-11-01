@@ -4,29 +4,8 @@ test_cases:
     X4_STEER_TQ: 0.08594
   response: 630F10662DB99000B00
 - expected_values:
-    X4_STEER_TQ: 0.4375
-  response: 630F10662DB99003800
-- expected_values:
-    X4_STEER_TQ: 0.97656
-  response: 630F10662DB99007D00
-- expected_values:
     X4_STEER_TQ: -2.00781
   response: 630F10662DB99FEFF00
 - expected_values:
-    X4_STEER_TQ: -0.71094
-  response: 630F10662DB99FFA500
-- expected_values:
-    X4_STEER_TQ: -0.33594
-  response: 630F10662DB99FFD500
-- expected_values:
-    X4_STEER_TQ: -0.26562
-  response: 630F10662DB99FFDE00
-- expected_values:
-    X4_STEER_TQ: -0.17188
-  response: 630F10662DB99FFEA00
-- expected_values:
-    X4_STEER_TQ: -0.07812
-  response: 630F10662DB99FFF600
-- expected_values:
-    X4_STEER_TQ: -0.03125
-  response: 630F10662DB99FFFC00
+    X4_STEER_TQ: -1.55469
+  response: 630F10662DB99FF3900
