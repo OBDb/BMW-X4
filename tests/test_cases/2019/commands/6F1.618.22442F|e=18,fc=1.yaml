@@ -7,5 +7,5 @@ test_cases:
     X4_ENG_TQ_6F1: 65509
   response: 618F10562442FFFE5
 - expected_values:
-    X4_ENG_TQ_6F1: 65531
-  response: 618F10562442FFFFB
+    X4_ENG_TQ_6F1: 65534
+  response: 618F10562442FFFFE

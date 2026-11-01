@@ -30,3 +30,8 @@ test_cases:
   response: |-
     612F1100762558E0002
     612F1210010FFFFFFFF
+- expected_values:
+    X4_ODO_DME: 131262
+  response: |-
+    612F1100762558E0002
+    612F12100BEFFFFFFFF

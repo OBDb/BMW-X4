@@ -7,6 +7,12 @@ test_cases:
     X4_EOT_6F1: 47
   response: 612F105624402005E
 - expected_values:
+    X4_EOT_6F1: 58.5
+  response: 612F1056244020075
+- expected_values:
+    X4_EOT_6F1: 60.5
+  response: 612F1056244020079
+- expected_values:
     X4_EOT_6F1: 88.5
   response: 612F10562440200B1
 - expected_values:

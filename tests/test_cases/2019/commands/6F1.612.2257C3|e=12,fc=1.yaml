@@ -4,8 +4,8 @@ test_cases:
     X4_OIL_TEMP_ALT: 88.4
   response: 612F1056257C30374
 - expected_values:
-    X4_OIL_TEMP_ALT: 111.5
-  response: 612F1056257C3045B
+    X4_OIL_TEMP_ALT: 105.6
+  response: 612F1056257C30420
 - expected_values:
     X4_OIL_TEMP_ALT: 122.5
   response: 612F1056257C304C9
