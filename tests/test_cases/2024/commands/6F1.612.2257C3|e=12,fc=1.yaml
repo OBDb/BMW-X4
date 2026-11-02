@@ -1,5 +1,32 @@
 command_id: 6F1.612.2257C3|e=12,fc=1
 test_cases:
 - expected_values:
+    X4_OIL_TEMP_ALT: 69.9
+  response: 612F1056257C302BB
+- expected_values:
+    X4_OIL_TEMP_ALT: 75.5
+  response: 612F1056257C302F3
+- expected_values:
     X4_OIL_TEMP_ALT: 86.6
   response: 612F1056257C30362
+- expected_values:
+    X4_OIL_TEMP_ALT: 92.5
+  response: 612F1056257C3039D
+- expected_values:
+    X4_OIL_TEMP_ALT: 109.4
+  response: 612F1056257C30446
+- expected_values:
+    X4_OIL_TEMP_ALT: 114.5
+  response: 612F1056257C30479
+- expected_values:
+    X4_OIL_TEMP_ALT: 116.9
+  response: 612F1056257C30491
+- expected_values:
+    X4_OIL_TEMP_ALT: 121.9
+  response: 612F1056257C304C3
+- expected_values:
+    X4_OIL_TEMP_ALT: 122.5
+  response: 612F1056257C304C9
+- expected_values:
+    X4_OIL_TEMP_ALT: 122.6
+  response: 612F1056257C304CA

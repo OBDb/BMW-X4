@@ -3,3 +3,21 @@ test_cases:
 - expected_values:
     X4_VSS: 0
   response: 660F10562D1070000
+- expected_values:
+    X4_VSS: 10
+  response: 660F10562D1070064
+- expected_values:
+    X4_VSS: 15.4
+  response: 660F10562D107009A
+- expected_values:
+    X4_VSS: 31.1
+  response: 660F10562D1070137
+- expected_values:
+    X4_VSS: 35.5
+  response: 660F10562D1070163
+- expected_values:
+    X4_VSS: 60.8
+  response: 660F10562D1070260
+- expected_values:
+    X4_VSS: 69.9
+  response: 660F10562D10702BB

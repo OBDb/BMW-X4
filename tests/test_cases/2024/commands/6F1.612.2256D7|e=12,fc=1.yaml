@@ -1,5 +1,32 @@
 command_id: 6F1.612.2256D7|e=12,fc=1
 test_cases:
 - expected_values:
+    X4_FRP: 134.1
+  response: 612F1056256D71A31
+- expected_values:
+    X4_FRP: 135.92
+  response: 612F1056256D71A8C
+- expected_values:
+    X4_FRP: 137.62
+  response: 612F1056256D71AE1
+- expected_values:
+    X4_FRP: 202.04
+  response: 612F1056256D72776
+- expected_values:
+    X4_FRP: 227.78
+  response: 612F1056256D72C7D
+- expected_values:
+    X4_FRP: 238.32
+  response: 612F1056256D72E8C
+- expected_values:
+    X4_FRP: 239.58
+  response: 612F1056256D72ECB
+- expected_values:
+    X4_FRP: 309.76
+  response: 612F1056256D73C80
+- expected_values:
+    X4_FRP: 349
+  response: 612F1056256D7442A
+- expected_values:
     X4_FRP: 352.64
   response: 612F1056256D744E0

@@ -6,4 +6,11 @@ test_cases:
     X4_BC_RANGE: 0
   response: |-
     660F1100B62D129FFFD
+    660F121FFFD00000000
+- expected_values:
+    X4_BC_AVG_CONS: 6553
+    X4_BC_AVG_SPD: 655
+    X4_BC_RANGE: 0
+  response: |-
+    660F1100B62D129FFFD
     660F121FFFDFFFD0000

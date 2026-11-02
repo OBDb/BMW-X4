@@ -1,5 +1,32 @@
 command_id: 6F1.612.22480C|e=12,fc=1
 test_cases:
 - expected_values:
+    X4_LOAD_TGT: 0
+  response: 612F10562480C0000
+- expected_values:
+    X4_LOAD_TGT: 12.44531
+  response: 612F10562480C0213
+- expected_values:
+    X4_LOAD_TGT: 13.17188
+  response: 612F10562480C0232
+- expected_values:
+    X4_LOAD_TGT: 13.47656
+  response: 612F10562480C023F
+- expected_values:
+    X4_LOAD_TGT: 14.71875
+  response: 612F10562480C0274
+- expected_values:
+    X4_LOAD_TGT: 17.36719
+  response: 612F10562480C02E5
+- expected_values:
+    X4_LOAD_TGT: 36.25781
+  response: 612F10562480C060B
+- expected_values:
+    X4_LOAD_TGT: 37.28906
+  response: 612F10562480C0637
+- expected_values:
     X4_LOAD_TGT: 43.61719
   response: 612F10562480C0745
+- expected_values:
+    X4_LOAD_TGT: 62.01562
+  response: 612F10562480C0A56

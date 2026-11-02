@@ -3,3 +3,24 @@ test_cases:
 - expected_values:
     X4_ENG_TQ_6F1: 2
   response: 618F10562442F0002
+- expected_values:
+    X4_ENG_TQ_6F1: 16
+  response: 618F10562442F0010
+- expected_values:
+    X4_ENG_TQ_6F1: 21
+  response: 618F10562442F0015
+- expected_values:
+    X4_ENG_TQ_6F1: 88
+  response: 618F10562442F0058
+- expected_values:
+    X4_ENG_TQ_6F1: 102
+  response: 618F10562442F0066
+- expected_values:
+    X4_ENG_TQ_6F1: 240
+  response: 618F10562442F00F0
+- expected_values:
+    X4_ENG_TQ_6F1: 65534
+  response: 618F10562442FFFFE
+- expected_values:
+    X4_ENG_TQ_6F1: 65535
+  response: 618F10562442FFFFF
