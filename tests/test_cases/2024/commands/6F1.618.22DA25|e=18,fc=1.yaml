@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     X4_EOT: 22
   response: 618F10562DA250046
+- expected_values:
+    X4_EOT: 81
+  response: 618F10562DA250081

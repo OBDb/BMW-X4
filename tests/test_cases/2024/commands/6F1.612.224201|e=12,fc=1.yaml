@@ -1,5 +1,20 @@
 command_id: 6F1.612.224201|e=12,fc=1
 test_cases:
 - expected_values:
+    X4_BARO: 99.92188
+  response: 612F10562420163EC
+- expected_values:
+    X4_BARO: 99.9375
+  response: 612F10562420163F0
+- expected_values:
+    X4_BARO: 99.94141
+  response: 612F10562420163F1
+- expected_values:
+    X4_BARO: 99.94922
+  response: 612F10562420163F3
+- expected_values:
     X4_BARO: 99.96094
   response: 612F10562420163F6
+- expected_values:
+    X4_BARO: 99.96484
+  response: 612F10562420163F7
