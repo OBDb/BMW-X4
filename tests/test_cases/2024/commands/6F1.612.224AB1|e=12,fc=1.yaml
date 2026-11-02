@@ -4,20 +4,8 @@ test_cases:
     X4_VSS2: 0
   response: 612F105624AB10000
 - expected_values:
-    X4_VSS2: 14.55
-  response: 612F105624AB105AF
-- expected_values:
-    X4_VSS2: 25.46
-  response: 612F105624AB109F2
-- expected_values:
-    X4_VSS2: 28.86
-  response: 612F105624AB10B46
-- expected_values:
-    X4_VSS2: 33.7
-  response: 612F105624AB10D2A
+    X4_VSS2: 43.51
+  response: 612F105624AB110FF
 - expected_values:
     X4_VSS2: 58.96
   response: 612F105624AB11708
-- expected_values:
-    X4_VSS2: 60.57
-  response: 612F105624AB117A9

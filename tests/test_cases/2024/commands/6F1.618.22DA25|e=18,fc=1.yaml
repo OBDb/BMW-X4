@@ -4,5 +4,5 @@ test_cases:
     X4_EOT: 22
   response: 618F10562DA250046
 - expected_values:
-    X4_EOT: 81
-  response: 618F10562DA250081
+    X4_EOT: 91
+  response: 618F10562DA25008B

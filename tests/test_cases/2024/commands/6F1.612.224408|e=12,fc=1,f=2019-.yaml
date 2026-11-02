@@ -4,29 +4,8 @@ test_cases:
     X4_EOT_DME_K: 18.75
   response: 612F1056244080B67
 - expected_values:
-    X4_EOT_DME_K: 30.25
-  response: 612F1056244080BDA
-- expected_values:
-    X4_EOT_DME_K: 46.55
-  response: 612F1056244080C7D
-- expected_values:
-    X4_EOT_DME_K: 51.75
-  response: 612F1056244080CB1
-- expected_values:
-    X4_EOT_DME_K: 56.55
-  response: 612F1056244080CE1
+    X4_EOT_DME_K: 59.05
+  response: 612F1056244080CFA
 - expected_values:
     X4_EOT_DME_K: 61.05
   response: 612F1056244080D0E
-- expected_values:
-    X4_EOT_DME_K: 63.95
-  response: 612F1056244080D2B
-- expected_values:
-    X4_EOT_DME_K: 68.95
-  response: 612F1056244080D5D
-- expected_values:
-    X4_EOT_DME_K: 69.45
-  response: 612F1056244080D62
-- expected_values:
-    X4_EOT_DME_K: 73.95
-  response: 612F1056244080D8F

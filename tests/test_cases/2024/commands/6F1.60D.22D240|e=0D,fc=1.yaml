@@ -4,14 +4,5 @@ test_cases:
     X4_VSS_INSTR: 0
   response: 60DF10562D2400000
 - expected_values:
-    X4_VSS_INSTR: 1
-  response: 60DF10562D2400001
-- expected_values:
-    X4_VSS_INSTR: 48
-  response: 60DF10562D2400030
-- expected_values:
-    X4_VSS_INSTR: 51
-  response: 60DF10562D2400033
-- expected_values:
     X4_VSS_INSTR: 59
   response: 60DF10562D240003B

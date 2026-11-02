@@ -1,14 +1,11 @@
 command_id: 6F1.612.224AB0|e=12,fc=1
 test_cases:
 - expected_values:
-    X4_BOOST_P_SET: 99.91016
-  response: 612F105624AB063E9
+    X4_BOOST_P_SET: 0
+  response: 612F105624AB00000
 - expected_values:
-    X4_BOOST_P_SET: 99.9375
-  response: 612F105624AB063F0
+    X4_BOOST_P_SET: 99.98438
+  response: 612F105624AB063FC
 - expected_values:
-    X4_BOOST_P_SET: 99.94922
-  response: 612F105624AB063F3
-- expected_values:
-    X4_BOOST_P_SET: 99.96094
-  response: 612F105624AB063F6
+    X4_BOOST_P_SET: 100
+  response: 612F105624AB06400

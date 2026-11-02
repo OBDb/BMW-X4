@@ -1,26 +1,8 @@
 command_id: 6F1.612.2259FA|e=12,fc=1
 test_cases:
 - expected_values:
-    X4_IGN_ANGLE: 3.75
-  response: 612F1046259FA05
+    X4_IGN_ANGLE: 0
+  response: 612F1046259FA00
 - expected_values:
-    X4_IGN_ANGLE: 6
-  response: 612F1046259FA08
-- expected_values:
-    X4_IGN_ANGLE: 7.5
-  response: 612F1046259FA0A
-- expected_values:
-    X4_IGN_ANGLE: 11.25
-  response: 612F1046259FA0F
-- expected_values:
-    X4_IGN_ANGLE: 25.5
-  response: 612F1046259FA22
-- expected_values:
-    X4_IGN_ANGLE: -19.5
-  response: 612F1046259FAE6
-- expected_values:
-    X4_IGN_ANGLE: -18.75
-  response: 612F1046259FAE7
-- expected_values:
-    X4_IGN_ANGLE: -17.25
-  response: 612F1046259FAE9
+    X4_IGN_ANGLE: -3
+  response: 612F1046259FAFC

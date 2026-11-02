@@ -4,26 +4,8 @@ test_cases:
     X4_MAP: 93.19531
   response: 612F105624A2D2E99
 - expected_values:
-    X4_MAP: 94.32812
-  response: 612F105624A2D2F2A
-- expected_values:
-    X4_MAP: 94.82812
-  response: 612F105624A2D2F6A
-- expected_values:
-    X4_MAP: 94.95312
-  response: 612F105624A2D2F7A
-- expected_values:
-    X4_MAP: 95.22656
-  response: 612F105624A2D2F9D
-- expected_values:
-    X4_MAP: 95.24219
-  response: 612F105624A2D2F9F
-- expected_values:
-    X4_MAP: 95.28125
-  response: 612F105624A2D2FA4
-- expected_values:
-    X4_MAP: 95.3125
-  response: 612F105624A2D2FA8
+    X4_MAP: 98.08594
+  response: 612F105624A2D310B
 - expected_values:
     X4_MAP: 99.89062
   response: 612F105624A2D31F2

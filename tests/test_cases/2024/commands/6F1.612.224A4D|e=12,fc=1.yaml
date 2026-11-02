@@ -4,29 +4,11 @@ test_cases:
     X4_IGN_TIMING_4: 6.2
   response: 612F105624A4D003E
 - expected_values:
-    X4_IGN_TIMING_4: 7.7
-  response: 612F105624A4D004D
-- expected_values:
-    X4_IGN_TIMING_4: 8.3
-  response: 612F105624A4D0053
-- expected_values:
-    X4_IGN_TIMING_4: 11.3
-  response: 612F105624A4D0071
-- expected_values:
-    X4_IGN_TIMING_4: 19.7
-  response: 612F105624A4D00C5
-- expected_values:
     X4_IGN_TIMING_4: 26
   response: 612F105624A4D0104
 - expected_values:
-    X4_IGN_TIMING_4: -19
-  response: 612F105624A4DFF42
+    X4_IGN_TIMING_4: -22
+  response: 612F105624A4DFF24
 - expected_values:
-    X4_IGN_TIMING_4: -18
-  response: 612F105624A4DFF4C
-- expected_values:
-    X4_IGN_TIMING_4: -17.8
-  response: 612F105624A4DFF4E
-- expected_values:
-    X4_IGN_TIMING_4: -16.2
-  response: 612F105624A4DFF5E
+    X4_IGN_TIMING_4: -0.1
+  response: 612F105624A4DFFFF

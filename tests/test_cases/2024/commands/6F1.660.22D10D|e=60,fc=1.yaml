@@ -1,18 +1,6 @@
 command_id: 6F1.660.22D10D|e=60,fc=1
 test_cases:
 - expected_values:
-    X4_ODO: 26841
-    X4_ODO_ALT: 26841
-  response: |-
-    660F1100B62D10D0000
-    660F12168D9000068D9
-- expected_values:
-    X4_ODO: 26842
-    X4_ODO_ALT: 26842
-  response: |-
-    660F1100B62D10D0000
-    660F12168DA000068DA
-- expected_values:
     X4_ODO: 26843
     X4_ODO_ALT: 26843
   response: |-
@@ -24,3 +12,15 @@ test_cases:
   response: |-
     660F1100B62D10D0000
     660F12168DC000068DC
+- expected_values:
+    X4_ODO: 26852
+    X4_ODO_ALT: 26852
+  response: |-
+    660F1100B62D10D0000
+    660F12168E4000068E4
+- expected_values:
+    X4_ODO: 26854
+    X4_ODO_ALT: 26854
+  response: |-
+    660F1100B62D10D0000
+    660F12168E6000068E6
