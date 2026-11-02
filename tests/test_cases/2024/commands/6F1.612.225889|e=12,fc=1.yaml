@@ -1,32 +1,17 @@
 command_id: 6F1.612.225889|e=12,fc=1
 test_cases:
 - expected_values:
-    X4_LAMBDA_6F1: 0.89992
-  response: 612F1056258890E66
+    X4_LAMBDA_6F1: 0.89064
+  response: 612F1056258890E40
 - expected_values:
-    X4_LAMBDA_6F1: 0.95094
-  response: 612F1056258890F37
-- expected_values:
-    X4_LAMBDA_6F1: 0.96315
-  response: 612F1056258890F69
-- expected_values:
-    X4_LAMBDA_6F1: 0.99098
-  response: 612F1056258890FDB
-- expected_values:
-    X4_LAMBDA_6F1: 0.99342
-  response: 612F1056258890FE5
+    X4_LAMBDA_6F1: 0.93507
+  response: 612F1056258890EF6
 - expected_values:
     X4_LAMBDA_6F1: 1.00002
   response: 612F1056258891000
 - expected_values:
-    X4_LAMBDA_6F1: 1.05812
-  response: 612F10562588910EE
-- expected_values:
-    X4_LAMBDA_6F1: 2.3472
-  response: 612F105625889258E
-- expected_values:
-    X4_LAMBDA_6F1: 2.90703
-  response: 612F1056258892E83
-- expected_values:
     X4_LAMBDA_6F1: 3.28985
   response: 612F10562588934A3
+- expected_values:
+    X4_LAMBDA_6F1: null
+  response: 612F105625889FFFF

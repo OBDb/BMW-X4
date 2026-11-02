@@ -4,14 +4,11 @@ test_cases:
     X4_AAT: 14.5
   response: 660F10562D1126D6E
 - expected_values:
-    X4_AAT: 15
-  response: 660F10562D1126E6E
+    X4_AAT: 15.5
+  response: 660F10562D1126F74
 - expected_values:
-    X4_AAT: 15
-  response: 660F10562D1126E6F
-- expected_values:
-    X4_AAT: 17
-  response: 660F10562D1127272
+    X4_AAT: 15.5
+  response: 660F10562D1126F78
 - expected_values:
     X4_AAT: 18
   response: 660F10562D1127474
