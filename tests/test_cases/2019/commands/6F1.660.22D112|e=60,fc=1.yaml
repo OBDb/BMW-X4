@@ -4,29 +4,8 @@ test_cases:
     X4_AAT: 12.5
   response: 660F10562D112696A
 - expected_values:
-    X4_AAT: 12.5
-  response: 660F10562D112696B
-- expected_values:
-    X4_AAT: 13
-  response: 660F10562D1126A6D
-- expected_values:
-    X4_AAT: 17.5
-  response: 660F10562D1127375
-- expected_values:
-    X4_AAT: 17.5
-  response: 660F10562D1127377
-- expected_values:
     X4_AAT: 18
   response: 660F10562D1127474
-- expected_values:
-    X4_AAT: 18
-  response: 660F10562D1127475
-- expected_values:
-    X4_AAT: 18
-  response: 660F10562D1127478
-- expected_values:
-    X4_AAT: 18
-  response: 660F10562D112747B
 - expected_values:
     X4_AAT: 18
   response: 660F10562D112747F

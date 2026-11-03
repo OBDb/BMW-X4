@@ -36,3 +36,9 @@ test_cases:
   response: |-
     660F1100B62D10D0002
     660F121018C0002018C
+- expected_values:
+    X4_ODO: 131521
+    X4_ODO_ALT: 131521
+  response: |-
+    660F1100B62D10D0002
+    660F12101C1000201C1
