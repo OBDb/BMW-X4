@@ -22,6 +22,12 @@ test_cases:
     X4_CONS_KWH_100KM: 0
   response: |-
     660F1100D62D12A0000
+    660F1210CA815140926
+    660F1220127FFFFFFFF
+- expected_values:
+    X4_CONS_KWH_100KM: 0
+  response: |-
+    660F1100D62D12A0000
     660F1210D3E15140721
     660F12200F2FFFFFFFF
 - expected_values:
